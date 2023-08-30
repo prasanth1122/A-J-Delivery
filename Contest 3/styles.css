@@ -1,0 +1,206 @@
+nav{
+
+    display: flex;
+    margin-top: 15px;
+    margin-left: 5px;
+    margin-right: 5px;
+    justify-content: space-between;
+    align-items:baseline;
+    margin: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+}
+.nav1{
+    display: flex;
+    gap:40px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 18px;
+    
+}
+.nav2{
+    display: flex;
+    gap: 50px;
+}
+
+.searchbar{
+    border-radius: 20px;
+    height: 100%;
+    border: 0px solid red; 
+    
+}
+.button1{
+    height: 100%;
+    border-radius: 10px;
+    border-color: red;
+    
+    background-color: red;
+    color: white;
+}
+.bell{
+    height: 150%;
+    margin-top: 5px;
+}
+.nav00{
+    border: 3px solid red;
+    border-radius: 10px;
+    
+
+}
+.style1{
+    font-family: 'Alfa Slab One', cursive;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: red;
+
+
+}
+.style2{
+    font-family: 'Alfa Slab One', cursive;
+    font-family: 'Barriecito', cursive;
+    font-family: 'Changa', sans-serif;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Qwitcher Grypen', cursive;
+    font-family: 'Rubik Iso', cursive;
+    font-family: 'Sedgwick Ave Display', cursive;
+    color: red;
+    font-weight: 100px;
+  
+}
+
+.IMAGES {
+        width: 400px;
+        height: 400px;
+        background: url("file:///C:/Users/pc/Downloads/Capture1.webp") no-repeat;
+        margin-right: 25px;
+        margin-top: none;
+    }
+.IMAGES:hover {
+        background: url("file:///C:/Users/pc/Downloads/Capture2.webp") no-repeat;
+    }
+.aboutme{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.overthetop{
+    display: flex;
+    justify-content: space-between;
+    font-family:Arial, Helvetica, sans-serif;
+    color: red;
+    font-weight: 100px;
+    gap:20px;
+    color: black;
+    padding-top: 10px;
+    font-weight: bold;
+    
+
+}
+.heading1{
+    margin-top: 20px;
+    font-family: 'Alfa Slab One', cursive;
+    Color:red;
+    font-size: 60px;
+
+}
+.para1{
+    color: black;
+    font-family: 'Alfa Slab One', cursive;
+    font-weight: normal;
+}
+.button2{
+    background-color: red;
+    color:white;
+    border: 0px solid white;
+    border-radius: 10px;
+    font-weight: bold;
+    padding: 5px;
+    
+
+}
+.showcase{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 70px;
+}
+.heading2{
+    font-family: 'Alfa Slab One', cursive;
+    background-color: red;
+    color:white;
+    margin-top: 80px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Alfa Slab One', cursive;
+    margin-top: 70px;
+    color: red;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.snak{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+#but{
+    background-color: red;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    border: 0px solid white;
+    border-radius: 15px;
+}
+.rev{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    gap:25px;
+}
+.revv{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: white;
+    justify-content: space-around;
+
+}
+.head11{
+    font-family: 'Alfa Slab One', cursive;
+    color: red;
+}
+.div22{
+    border: 1px solid goldenrod;
+    padding: 10px;
+    background-color: rgb(221, 218, 218);
+}
+.imgaa{
+    
+    margin-top: 50px;
+    margin-left: 150px;
+    width:90%;
+    align-items: center;
+}
+.final{
+    display: flex;
+    justify-content: space-around;
+    align-items: top;
+}
+.parfi{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+}
+.finalbottom{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 10px;
+}
